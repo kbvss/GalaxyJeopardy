@@ -1,2 +1,2 @@
 # GalaxyJeopardy
-Space themed Jeopardy game
+Jeopardy game with Space themed topics
