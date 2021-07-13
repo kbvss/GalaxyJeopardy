@@ -3,10 +3,10 @@ import java.awt.event.*;
 import javax.swing.*; 
 import java.io.*;
 /*============================================================================================================================
- *This is what we used to allow the popup for the game, and from there we created the main game in GalaxyJeopardyGame
+ *This is what I used to allow the popup for the game, and from there I created the main game in GalaxyJeopardyGame
  * ===========================================================================================================================
  */
-	//INFORMATION about the applet we used
+	//INFORMATION about the applet I used
 	//Easy GUI A p p s, Components, IBIO
 	/*=============================================================
 	 * EasyApp - standard GUI app with standard IBIO routines
