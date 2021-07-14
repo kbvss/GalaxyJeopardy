@@ -1,10 +1,11 @@
 # GalaxyJeopardy
 Jeopardy game with Space themed topics
 
-import java.awt.*;
-//import java.io.File; // Import background image for the applet
 
-# Here is the breakdown of the code used to created the Jeopardy game
+# Here is the breakdown of the code used to created the Jeopardy game 
+	import java.awt.*;
+	//import java.io.File; // Import background image for the applet
+
 
 	public class GalaxyJeopardyGame extends EasyApp
 	{
