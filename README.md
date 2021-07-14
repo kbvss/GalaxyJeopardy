@@ -25,7 +25,7 @@ import java.awt.*;
 	   
 	   
 
-	   //==================================================================  DISPLAY AND POSITIONING OF THE BUTTONS   =============================================
+	   //=========================================  DISPLAY AND POSITIONING OF THE BUTTONS   =========================================
 	   /*===============================
 	    *First row of buttons!
 	    * ==============================
@@ -93,16 +93,9 @@ import java.awt.*;
 	   	
 	   //First Teams points !!
 	   double points = 0;
-	 
+	
 	   
-	   
-	   
-	   
-	   
-	   
-	   
-	   
-	   
+	
 	   /*===================================================================
 		 * Change the Applet's appearance  (Constructor)
 		 * =================================================================
@@ -264,7 +257,7 @@ import java.awt.*;
 	    	
 	    	  
 	    	  
-	//====================================================================================== ENABLE THE BUTTONS AFTER "PLAY AGAIN" IS PRESSED ==================================    	  
+	//================================ ENABLE THE BUTTONS AFTER "PLAY AGAIN" IS PRESSED ============================  	  
 	    	  	//Enable rows
 		    	 Planets.setEnabled(true);
 		         Stars.setEnabled(true);
@@ -414,16 +407,6 @@ import java.awt.*;
 	   
 	   
 	   
-	   
-	   
-	   
-	   
-	   
-	   
-	   
-	   
-	   
-	   
 	   //============== Planet Column ===================
 	   
 	   public void Planets2()   //====================================================== Planets 2 
@@ -488,12 +471,7 @@ import java.awt.*;
 	      }      
 	      Planets5.setEnabled(false);
 	}
-	   
-	   
-	   
-	   
-	   
-	   
+	    
 	   
 	   //========================= Stars column ========================
 	   
@@ -568,9 +546,7 @@ import java.awt.*;
 	   
 	   
 	   
-	   
-	   
-	   //===================== Constellations column ===================
+	   //===================== Constellations columns ===================
 	   public void  Constellations2() //========================================================== Constellations2
 	   {
 	      String guess = inputString("A commom constellation that comes in a pair?"); 
@@ -798,7 +774,7 @@ import java.awt.*;
 	      
 	}		
   
-  # Here is the app that this code created
+  # Here is the finished game
   
   ![Total Employees](https://github.com/kbvss/GalaxyJeopardy/blob/master/Galaxy%20Jeopardy%20picture.jpg?raw=true)
 	
