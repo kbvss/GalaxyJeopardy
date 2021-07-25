@@ -2,7 +2,7 @@
 Jeopardy game with Space themed topics
 
 
-# Here is the breakdown of the code used to created the Jeopardy game 
+# Here is the breakdown of the code used to create the Jeopardy game 
 	import java.awt.*;
 	//import java.io.File; // Import background image for the applet
 
